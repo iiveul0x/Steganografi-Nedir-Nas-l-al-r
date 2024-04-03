@@ -6,11 +6,11 @@
 
 >Steghide, OpenStego gibi araçları kullanabiliriz veya ses dosyalarına bir şeyler gizlemek için Coagula programını kullanabiliriz. Bu programların yaptığı şeylerin benzerini yapan araçlar github’da bulunuyor.
 
-•  WavSteg
+•  [WavSteg](https://github.com/ragibson/Steganography#WavSteg)
 
-•  LSBSteg
+•  [LSBSteg](https://github.com/ragibson/Steganography#LSBSteg)
 
-•  StegDetect
+•  [StegDetect](https://github.com/ragibson/Steganography#StegDetect)
 
 Bu araçlar ile de veri gizleyebilirsiniz. 
 
